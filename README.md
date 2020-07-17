@@ -1,3 +1,3 @@
 # Recursion
 
-Basic tutorila for recursion
+Basic tutorial for recursion
